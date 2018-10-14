@@ -1,0 +1,71 @@
+/* CSS Document */
+body {
+ 
+   background-color: #008CBA;
+  color: white;
+  font-size: 16px;
+  font-family: Andale Mono, cursive;
+  text-align: center;
+
+}
+
+.form
+{     background: linear-gradient(to bottom, #008CBA 0%, #ff99cc 100%);
+      background-size: auto;
+
+
+}
+
+input[type=email] {
+  width: 200px;
+  text-align: center;
+  border-radius: 4px;
+
+
+
+}
+
+
+input[type=text] {
+  width: 200px;
+    text-align: center;
+    border-radius: 4px;
+
+}
+
+
+
+
+h1 {
+  color: white;
+  
+  font-family: Andale Mono, cursive;
+}
+ h2 {
+color:white;
+ }
+
+
+input[type=submit]
+{
+  background-color:  #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: Andale Mono, cursive;
+border-radius: 4px;
+
+}
+
+input[type=submit]:hover {
+  background-color: #4CAF50; 
+    color: white;
+}
+.list {
+color:white;
+      text-align: center;
+ }
